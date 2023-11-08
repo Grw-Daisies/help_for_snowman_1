@@ -1,0 +1,60 @@
+body{
+    background-color: cornsilk;
+    background-image: url(https://i.ytimg.com/vi/PrhhsRUdG9I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEogVihlMA8=&amp;rs=AOn4CLB5GJmh-TM_7bQSTZraBpi0q9TQCg);
+    background-size: contain;
+    color: rgb(50, 49, 73);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+header{
+    background-color: azure;
+    background-image: url(https://wallpapers.com/images/hd/hd-winter-background-1etlncva9opl8kc2.jpg);
+    background-size: contain;
+}
+a{
+    color: rgb(255, 228, 182);
+    font-size: 30px;
+}
+.pody{
+    color: rgb(48, 46, 64);
+}
+div{
+    width: 50%;
+}
+main{
+    background-color: aqua;
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612756558_24-p-fon-goluboi-so-snegom-30.jpg);
+}
+.logo{
+    float: left;
+    display: flex;
+}
+.messeg{
+    height: 70%;
+    background-color: azure;
+    float: right;
+    background-image: url(https://www.sc-srl.eu/wp-content/uploads/2022/01/5-min.png);
+}
+.cont{
+    color: rgb(61, 41, 22);
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+.link{
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    background-image: url(https://www.acsu.buffalo.edu/~khashaya/woodTextureBackground.png);
+}
+.logo_t{
+    color: rgb(199, 153, 255);
+    font-size: 35px;
+}
+footer{
+    height: 200px;
+    background-color: blue;
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612164079_89-p-fon-razmitii-fioletovii-125.jpg);
+    background-position-y: -550px;
+}
